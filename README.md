@@ -1,8 +1,8 @@
 # Prompt Queue - Social Media Post Scheduler
 
-A React-based social media post scheduler that allows users to create and schedule posts with a beautiful timeline interface.
+## 🚀 Hosted on Netlify: [https://prompt-queue.netlify.app](https://prompt-queue.netlify.app)
 
-## 🚀 Features
+## 📝 Features
 
 - **Post Scheduling**: Create and schedule posts for future publication
 - **Real-time Timeline**: Visual timeline showing scheduled posts
