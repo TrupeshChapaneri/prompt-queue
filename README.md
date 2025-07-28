@@ -18,6 +18,18 @@
 - **Testing**: Vitest + React Testing Library
 - **Date Handling**: React DatePicker
 
+## 📦 Prerequisites
+
+- **Node.js**: v18.17.0 or higher (recommended: v23.6.0)
+- **npm**: v8.0.0 or higher (recommended: v10.9.2)
+
+You can check your current versions with:
+
+```bash
+node --version
+npm --version
+```
+
 ## 📦 Installation
 
 1. Clone the repository:
